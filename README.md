@@ -12,8 +12,6 @@ I’m a backend developer based in Indonesia with 4+ years of experience. I buil
 
 ## Tech stack
 
-**Favorite stack**
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-24558D?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-24558D?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-24558D?style=flat-square&logo=express&logoColor=white)
@@ -26,7 +24,7 @@ I’m a backend developer based in Indonesia with 4+ years of experience. I buil
 | **Area** | **Technologies** |
 | --- | --- |
 | Backend | TypeScript, JavaScript, PHP, Node.js, Bun, Express.js, Hono, Laravel |
-| Frontend | React, Next.js (App Router), Tailwind CSS, shadcn/ui, Radix UI, TanStack Query, React Hook Form |
+| Frontend | React, Next.js, Tailwind CSS, shadcn/ui, Radix UI, TanStack Query, React Hook Form |
 | Data | PostgreSQL, MySQL, MongoDB, Prisma |
 | Messaging & jobs | RabbitMQ, Redis, Redis Pub/Sub, BullMQ |
 | APIs & real-time | REST, gRPC, WebSocket, Socket.IO, Server-Sent Events (SSE), Zod |
