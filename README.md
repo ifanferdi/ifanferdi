@@ -20,6 +20,9 @@ I’m a backend developer based in Indonesia with 4+ years of experience. I buil
 ![Redis](https://img.shields.io/badge/Redis-9B392E?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-9B392E?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-24558D?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-24292F?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-087E99?style=flat-square&logo=tailwindcss&logoColor=white)
 
 | **Area** | **Technologies** |
 | --- | --- |
