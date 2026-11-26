@@ -10,22 +10,7 @@
 
 I’m a backend developer based in Indonesia with 4+ years of experience. I build APIs for web applications, from authentication and role-based access to database queries and background jobs.
 
-## Selected work
-
-### [Express Clean Architecture ↗](https://github.com/ifanferdi/express-clean-architecture)
-A TypeScript and Express project that illustrates how I organize backend code around clean architecture.
-
-### Digipro LMS
-I built REST APIs and designed the PostgreSQL schema for a learning management system. I implemented role-based access for admins, teachers, and students across workflows for courses, assignments, and grading.
-
-## Backend case studies
-
-| Problem | What I changed |
-| --- | --- |
-| Clients received related data they rarely needed. | Returned essential fields by default in Prisma and let clients request specific, approved relations with a validated `with` parameter. |
-| Failed jobs held up message processing. | Scaled RabbitMQ workers and used a dead-letter queue to handle retries. Logged messages that kept failing so they could be investigated. |
-
-## My stack
+## Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-226A38?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -35,6 +20,27 @@ I built REST APIs and designed the PostgreSQL schema for a learning management s
 ![Redis](https://img.shields.io/badge/Redis-A8281F?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-B24800?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-B62B22?style=flat-square&logo=laravel&logoColor=white)
+
+| Area | Technologies |
+| --- | --- |
+| Backend | TypeScript, Node.js, Express.js, Hono, PHP, Laravel |
+| Databases & ORM | PostgreSQL, MySQL, MongoDB, Prisma |
+| Messaging & caching | RabbitMQ, Redis |
+| APIs & real-time | REST, gRPC, WebSocket, Server-Sent Events |
+
+## Tools I use
+
+- **Development & deployment** · Git, Docker
+- **API gateway** · Kong
+- **Object storage & search** · MinIO, Meilisearch
+- **Observability** · Sentry, OpenTelemetry
+
+## Backend case studies
+
+| Problem | What I changed |
+| --- | --- |
+| Clients received related data they rarely needed. | Returned essential fields by default in Prisma and let clients request specific, approved relations with a validated `with` parameter. |
+| Failed jobs held up message processing. | Scaled RabbitMQ workers and used a dead-letter queue to handle retries. Logged messages that kept failing so they could be investigated. |
 
 ---
 
