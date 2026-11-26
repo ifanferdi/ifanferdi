@@ -12,24 +12,62 @@ I’m a backend developer based in Indonesia with 4+ years of experience. I buil
 
 ## Tech stack
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-226A38?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-24292F?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-34435D?style=flat-square&logo=prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-A8281F?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-B24800?style=flat-square&logo=rabbitmq&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-B62B22?style=flat-square&logo=laravel&logoColor=white)
+### Backend
 
-| Area | Technologies |
-| --- | --- |
-| Backend | TypeScript, JavaScript, PHP, Node.js, Bun, Express.js, Hono, Laravel |
-| Frontend | React, Next.js (App Router), Tailwind CSS, shadcn/ui, Radix UI, TanStack Query, React Hook Form |
-| Data | PostgreSQL, MySQL, MongoDB, Prisma |
-| Messaging & jobs | RabbitMQ, Redis, Redis Pub/Sub, BullMQ |
-| APIs & real-time | REST, gRPC, WebSocket, Socket.IO, Server-Sent Events (SSE), Zod |
-| Authentication | NextAuth.js, JWT, Argon2, role-based access control (RBAC) |
-| Video & streaming | FFmpeg, adaptive HLS, Video.js |
+![TypeScript](https://img.shields.io/badge/TypeScript-24558D?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-24558D?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-24558D?style=flat-square&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-24558D?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-24558D?style=flat-square&logo=bun&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-24558D?style=flat-square&logo=express&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-24558D?style=flat-square&logo=hono&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-24558D?style=flat-square&logo=laravel&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-624296?style=flat-square&logo=react&logoColor=white)
+![Next.js (App Router)](https://img.shields.io/badge/Next.js%20%28App%20Router%29-624296?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-624296?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-624296?style=flat-square&logo=shadcnui&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix%20UI-624296?style=flat-square&logo=radixui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack%20Query-624296?style=flat-square&logo=reactquery&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-624296?style=flat-square&logo=reacthookform&logoColor=white)
+
+### Data
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-286759?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-286759?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-286759?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-286759?style=flat-square&logo=prisma&logoColor=white)
+
+### Messaging & jobs
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-9B392E?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-9B392E?style=flat-square&logo=redis&logoColor=white)
+![Redis Pub/Sub](https://img.shields.io/badge/Redis%20Pub%2FSub-9B392E?style=flat-square&logo=redis&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-9B392E?style=flat-square)
+
+### APIs & real-time
+
+![REST](https://img.shields.io/badge/REST-345375?style=flat-square)
+![gRPC](https://img.shields.io/badge/gRPC-345375?style=flat-square)
+![WebSocket](https://img.shields.io/badge/WebSocket-345375?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-345375?style=flat-square&logo=socketdotio&logoColor=white)
+![Server-Sent Events (SSE)](https://img.shields.io/badge/Server--Sent%20Events%20%28SSE%29-345375?style=flat-square)
+![Zod](https://img.shields.io/badge/Zod-345375?style=flat-square&logo=zod&logoColor=white)
+
+### Authentication
+
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-6D3E70?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-6D3E70?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Argon2](https://img.shields.io/badge/Argon2-6D3E70?style=flat-square)
+![role-based access control (RBAC)](https://img.shields.io/badge/role--based%20access%20control%20%28RBAC%29-6D3E70?style=flat-square)
+
+### Video & streaming
+
+![FFmpeg](https://img.shields.io/badge/FFmpeg-33624D?style=flat-square&logo=ffmpeg&logoColor=white)
+![adaptive HLS](https://img.shields.io/badge/adaptive%20HLS-33624D?style=flat-square)
+![Video.js](https://img.shields.io/badge/Video.js-33624D?style=flat-square&logo=videodotjs&logoColor=white)
 
 ## Tools and integrations
 
