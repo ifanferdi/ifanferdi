@@ -23,17 +23,25 @@ I’m a backend developer based in Indonesia with 4+ years of experience. I buil
 
 | Area | Technologies |
 | --- | --- |
-| Backend | TypeScript, Node.js, Express.js, Hono, PHP, Laravel |
-| Databases & ORM | PostgreSQL, MySQL, MongoDB, Prisma |
-| Messaging & caching | RabbitMQ, Redis |
-| APIs & real-time | REST, gRPC, WebSocket, Server-Sent Events |
+| Backend | TypeScript, JavaScript, PHP, Node.js, Bun, Express.js, Hono, Laravel |
+| Frontend | React, Next.js (App Router), Tailwind CSS, shadcn/ui, Radix UI, TanStack Query, React Hook Form |
+| Data | PostgreSQL, MySQL, MongoDB, Prisma |
+| Messaging & jobs | RabbitMQ, Redis, Redis Pub/Sub, BullMQ |
+| APIs & real-time | REST, gRPC, WebSocket, Socket.IO, Server-Sent Events (SSE), Zod |
+| Authentication | NextAuth.js, JWT, Argon2, role-based access control (RBAC) |
+| Video & streaming | FFmpeg, adaptive HLS, Video.js |
 
-## Tools I use
+## Tools and integrations
 
-- **Development & deployment** · Git, Docker
-- **API gateway** · Kong
-- **Object storage & search** · MinIO, Meilisearch
-- **Observability** · Sentry, OpenTelemetry
+- **Development & deployment** · Git, Docker, Docker Compose, ESLint, Prettier
+- **APIs & infrastructure** · Swagger UI, Kong API Gateway
+- **Object storage & search** · AWS SDK for S3, MinIO, Silo, Meilisearch
+- **Payments & email** · Midtrans, Nodemailer
+- **Observability & queue monitoring** · Sentry, OpenTelemetry, Bull Board
+
+**Architecture** · Modular monoliths, microservices, domain-driven design (DDD), event-driven architecture
+
+**Foundational experience** · Go, Fiber, NestJS, Kafka, Elasticsearch, Zustand
 
 ## Backend case studies
 
