@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ifanferdi"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/Connect_on_LinkedIn-0969DA?style=for-the-badge"></a>
   <a href="https://ifanferdi.github.io"><img alt="View portfolio" src="https://img.shields.io/badge/View_Portfolio-24292F?style=for-the-badge&amp;logo=github&amp;logoColor=white"></a>
+  <a href="https://www.instagram.com/_ifanferdi/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
 </p>
 
 ---
