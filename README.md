@@ -43,13 +43,6 @@ I’m a backend developer based in Indonesia with 4+ years of experience. I buil
 
 **Foundational experience** · Go, Fiber, NestJS, Kafka, Elasticsearch, Zustand
 
-## Backend case studies
-
-| Problem | What I changed |
-| --- | --- |
-| Clients received related data they rarely needed. | Returned essential fields by default in Prisma and let clients request specific, approved relations with a validated `with` parameter. |
-| Failed jobs held up message processing. | Scaled RabbitMQ workers and used a dead-letter queue to handle retries. Logged messages that kept failing so they could be investigated. |
-
 ---
 
 Need an API, a backend integration, or help improving an existing service? [Tell me about your project](https://www.linkedin.com/in/ifanferdi).
