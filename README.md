@@ -31,7 +31,7 @@ I’m a backend developer based in Indonesia with 4+ years of experience. I buil
 | Data | PostgreSQL, MySQL, MongoDB, Prisma |
 | Messaging & jobs | RabbitMQ, Redis, Redis Pub/Sub, BullMQ |
 | APIs & real-time | REST, gRPC, WebSocket, Socket.IO, Server-Sent Events (SSE), Zod |
-| Authentication | OAuth2, NextAuth.js, JWT, Argon2, role-based access control (RBAC) |
+| Authentication | OAuth2, NextAuth.js, JWT, Argon2, SSO, role-based access control (RBAC) |
 | Video & streaming | FFmpeg, adaptive HLS, Video.js |
 
 ## Tools and integrations
